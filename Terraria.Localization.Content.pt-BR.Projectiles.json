@@ -57,6 +57,7 @@
 		"BobbersittingDuck": "Isca Flutuante",
 		"BobberWooden": "Isca Flutuante",
 		"Bomb": "Bomba",
+		"TrapBomb": "{$ProjectileName.Bomb}",
 		"BombFish": "Peixe Bomba",
 		"BombSkeletronPrime": "Bomba",
 		"Bone": "Osso",
